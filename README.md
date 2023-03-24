@@ -4,7 +4,7 @@ I am a frontend developer from China, currently working at ByteDance, the parent
 
 ### 🌱 My values:
 
-Always learning, endless growth
+Stay curious and never stop learning  
 
 ### 💻 My tech stack:
 
