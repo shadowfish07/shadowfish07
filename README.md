@@ -1,6 +1,13 @@
-### Hi there 👋
+<p align=center> Hi there 👋 </p>
 
-I am a frontend developer from China, currently working at ByteDance, the parent company of Tiktok and Lark.
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/38303418/228592412-ddbfacc0-4ae1-4a04-9576-6ccfc1f280de.png" width="30%" />
+  
+  I am a frontend developer from China, currently working at ByteDance, the parent company of Tiktok and Lark.  
+  I am focusing on building the world's best aPaaS (Application Platform as a Service) solution.
+</div>
+
+
 
 ### 🌱 My values:
 
@@ -11,6 +18,7 @@ Stay curious and never stop learning
 I have explored various areas from development to operations to DevOps. Currently, I mainly use TypeScript and am learning Go.
 
 ### 📚 Recent plans:
+
 
 - I hope to enhance my professional skills through technical collaboration.
 - I am working on a new project called FlexiBook, a better bookmark app, which also serves as my university graduation project.
