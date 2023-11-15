@@ -21,7 +21,7 @@ I have explored various areas from development to operations to DevOps. Currentl
 
 
 - I hope to enhance my professional skills through technical collaboration.
-- I am working on a new project called FlexiBook, a better bookmark app, which also serves as my university graduation project.
+- I am developing a new project: Subscriba, which is an app to help manage software subscription statuses.
 
 <!--
 **shadowfish07/shadowfish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
