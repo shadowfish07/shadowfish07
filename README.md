@@ -1,8 +1,8 @@
 <p align=center> Hi there 👋 </p>
 
 <div align=center>
-  I am a frontend developer from China, currently working at ByteDance, the parent company of Tiktok and Lark.  
-  I am focusing on building the world's best aPaaS (Application Platform as a Service) solution.
+  I am a frontend developer from China, currently working at ByteDance.  
+  I work on the Builder team for Feishu aPaaS.
 </div>
 
 
@@ -13,13 +13,18 @@ Stay curious and never stop learning
 
 ### 💻 My tech stack:
 
-I have explored various areas from development to operations to DevOps. Currently, I mainly use TypeScript and am learning Go.
+My journey spans full-stack development, operations, and DevOps, enriched by building a campus project that organically reached 2,000+ users. 
+
+I currently focus on TypeScript development while exploring Dart.
 
 ### 📚 Recent plans:
 
+- I'm committed to continuously absorbing high-quality knowledge through curated subscriptions, reading, and watching in-depth long-form videos.
 
-- I hope to enhance my professional skills through technical collaboration.
-- I am developing a new project: Subscriba, which is an app to help manage software subscription statuses.
+- I'm currently vibe coding my new app: **ReadeckApp** — a mobile-first read-later experience built on top of Readeck, designed to enhance my mobile reading workflow.
+
+- I'm actively exploring and learning AI technologies. I believe AI requires deliberate practice and intentional learning. The experience of vibe coding with Trae has been incredibly rewarding.
+
 
 <!--
 **shadowfish07/shadowfish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
