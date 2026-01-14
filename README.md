@@ -1,16 +1,5 @@
 <p align=center> Hi there 👋 </p>
 
-<div align=center>
-  I am a frontend developer from China, currently working at ByteDance.  
-  I work on the Builder team for Feishu aPaaS.
-</div>
-
-
-
-### 🌱 My values:
-
-Stay curious and never stop learning  
-
 ### 💻 My tech stack:
 
 My journey spans full-stack development, operations, and DevOps, enriched by building a campus project that organically reached 2,000+ users. 
